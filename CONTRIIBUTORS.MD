@@ -12,7 +12,8 @@ format for adding your name
 - Naresh Chandanbatve , Bhandara
 - Kalpesh Kawalkar, Daryapur
 
-- Muhammad Hassan
-- Karachi, Pakistan
+- Muhammad Hassan, Karachi, Pakistan
 
 - samyak kamble, wani
+
+- Aditya dongre, kalmeshwar
