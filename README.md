@@ -33,3 +33,5 @@ git commit -m 'commit message'
 git push origin branch-name
 ```
 6. create a new pull request from your forked repository and wait for your PR to get merged.
+
+And dont forget to enjoy :)
